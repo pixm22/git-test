@@ -18,5 +18,8 @@
   "homepage": "https://github.com/pixm22/git-test#readme",
   "dependencies": {
     "npm": "^6.0.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
   }
 }
